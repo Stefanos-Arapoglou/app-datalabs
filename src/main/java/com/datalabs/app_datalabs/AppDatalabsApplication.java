@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AppDatalabsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hey");
-		System.out.println("hey2");
+		System.out.println("This is my branch");
+
 		SpringApplication.run(AppDatalabsApplication.class, args);
 	}
 
